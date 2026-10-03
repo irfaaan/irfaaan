@@ -81,56 +81,11 @@ Git:                 ███████████████░░░   85
 
 ---
 
-### 🎯 FEATURED OPERATIONS
-
-<div align="center">
-
-<a href="https://github.com/irfaaan/mok">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=irfaaan&repo=mok&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&hide_border=false"/>
-</a>
-<a href="https://github.com/irfaaan/BinanceTradePro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=irfaaan&repo=BinanceTradePro&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&hide_border=false"/>
-</a>
-
-</div>
-
-<details>
-<summary><b>🔒 CLASSIFIED // click to decrypt full mission log</b></summary>
-
-```yaml
-operation: mall-of-karor          # ← repo: mok
-  type: full e-commerce platform
-  stack: [Laravel 13, Flutter, MySQL]
-  features: [OTP login, COD + mobile payments, rider tracking, admin panel]
-  status: IN_PROGRESS
-
-operation: binance-trade-pro      # ← repo: BinanceTradePro
-  type: trading toolkit
-  stack: [Python]
-  status: ACTIVE_RESEARCH
-
-operation: server-ops
-  type: ubuntu VPS management
-  tasks: [nginx, SSL via certbot, deployments, hardening]
-  status: RUNNING
-
-operation: realtime-systems
-  type: websocket-driven apps
-  stack: [Node.js, Laravel, Vue]
-  status: SHIPPED
-```
-
-> 🕵️ *New missions accepted. If your project needs a backend that doesn't fall over at 3 AM — let's talk.*
-
-</details>
-
----
-
----
-
 ### 🕹️ TERMINAL ARCADE
 
-> *insert coin // no quarter required — click a cell to make your move. A GitHub Action plays the machine's reply and commits the new board automatically.*
+> *insert coin // no quarter required*
+>
+> **HOW TO PLAY:** 1️⃣ click any cell → 2️⃣ hit **Submit new issue** (everything is prefilled, nothing to type) → 3️⃣ wait ~30 seconds — the machine replies and the board updates right here, automatically.
 
 #### ❌ TIC-TAC-TOE vs THE MACHINE
 

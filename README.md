@@ -1,9 +1,8 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
-  ║  IRFAAAN v2.0 :: DARK OPS PROFILE                                ║
-  ║  SETUP: create a repo named EXACTLY "irfaaan" (your username)     ║
-  ║  and drop this file in as README.md → it becomes your profile.   ║
-  ║  OPTIONAL: snake needs the Platane/snk workflow (output branch). ║
+  ║  IRFAAAN v4.0 :: FULL BLACKHAT PROFILE                           ║
+  ║  Repo must be named EXACTLY "irfaaan" (the username).            ║
+  ║  Snake: .github/workflows/snake.yml → output branch (daily).     ║
   ╚══════════════════════════════════════════════════════════════════╝
 -->
 
@@ -11,27 +10,47 @@
 
 <div align="center">
 
-![boot](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=%24+sudo+.%2Fboot_sequence.sh%3B%3E+injecting+payload%3A+irfaaan%3B%3E+Laravel+%C2%B7+Vue+%C2%B7+Node+%C2%B7+Python%3B%3E+firewall+bypassed...+just+kidding%3B%3E+status%3A+SHIPPED+%E2%9C%93%3B%3E+welcome%2C+root.)
+![boot](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=720&lines=%24+sudo+.%2Fblackhat.sh+--stealth%3B%3E+scanning+target+defenses...%3B%3E+firewall+bypassed+%E2%9C%93%3B%3E+deploying+portfolio+payload...%3B%3E+access+granted.+welcome.)
 
 <img src="https://komarev.com/ghpvc/?username=irfaaan&color=00ff41&style=flat-square&label=INTRUSIONS+DETECTED"/>
 <img src="https://img.shields.io/github/followers/irfaaan?color=00ff41&style=flat-square&label=AGENTS+RECRUITED"/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&logo=terminal&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/OPEN+TO-WORK-00ff41?style=flat-square&logo=hackthebox&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/THREAT+LEVEL-MINIMAL-00ff41?style=flat-square&logo=hackthebox&logoColor=00ff41"/>
 
 </div>
 
-<br>
+```
+ @@@ @@@@@@@  @@@@@@@@  @@@@@@   @@@@@@   @@@@@@  @@@  @@@
+ @@! @@!  @@@ @@!      @@!  @@@ @@!  @@@ @@!  @@@ @@!@!@@@
+ !!@ @!@!!@!  @!!!:!   @!@!@!@! @!@!@!@! @!@!@!@! @!@@!!@!
+ !!: !!: :!!  !!:      !!:  !!! !!:  !!! !!:  !!! !!:  !!!
+ :    :   : :  :        :   : :  :   : :  :   : : ::    :
+```
 
 ```bash
-root@darknet:~# sudo ./whoami.sh --root
+root@darknet:~# sudo ./whoami.sh --root --no-logs
 
 [+] IDENTITY ............ Irfan
-[+] CLEARANCE ........... Full-Stack Developer
+[+] CLEARANCE ........... Full-Stack Developer // blackhat at heart, whitehat by contract
 [+] SPECIALIZATION ...... Laravel ecosystems · REST APIs · realtime systems
 [+] BASE OF OPERATIONS . Pakistan → shipping worldwide
 [+] FIELD EXPERIENCE .... 2+ years in production
-[+] CURRENTLY HACKING ... Mall of Karor e-commerce platform (Laravel 13 + Flutter)
 [+] PHILOSOPHY .......... "Ship clean code. Break things in staging, not prod."
+[+] TRACE ............... none — logs wiped on exit
+```
+
+---
+
+### ☠️ KILL CHAIN // how every project gets pwned (professionally)
+
+```yaml
+[1] RECONNAISSANCE ... requirements recon — mapping the target surface
+[2] WEAPONIZATION .... architecture design — choosing the right payload (stack)
+[3] DELIVERY ......... CI/CD pipelines — zero-downtime infiltration
+[4] EXPLOITATION ..... features shipped — vulnerabilities patched, not made
+[5] INSTALLATION ..... monitoring + logging — persistence of the uptime kind
+[6] EXFILTRATION ..... clean handoff — docs delivered, client keeps the data
+[7] COVERING TRACKS . git history so clean, forensics finds nothing
 ```
 
 ---
@@ -56,7 +75,7 @@ PORT      STATE   SERVICE        VERSION
 ```
 
 ```yaml
-# proficiency.dat — self-assessed, battle-tested
+# payload-strength.dat — self-assessed, battle-tested
 Laravel / PHP:       ████████████████░░   90%
 Vue.js:              ██████████████░░░░   80%
 MySQL / PostgreSQL:  ██████████████░░░░   80%
@@ -68,7 +87,7 @@ Git:                 ███████████████░░░   85
 
 ---
 
-### 📊 SYSTEM TELEMETRY
+### 📊 SYSTEM TELEMETRY // live intercepts
 
 <div align="center">
 
@@ -81,37 +100,7 @@ Git:                 ███████████████░░░   85
 
 ---
 
-### 📈 PROFILE METRICS
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/irfaaan/irfaaan/main/metrics.svg" alt="profile metrics"/>
-</div>
-
----
-
-### 🕹️ TERMINAL ARCADE
-
-> *insert coin // no quarter required*
->
-> **HOW TO PLAY:** 1️⃣ click any cell → 2️⃣ hit **Submit new issue** (everything is prefilled, nothing to type) → 3️⃣ wait ~30 seconds — the machine replies and the board updates right here, automatically.
-
-#### 🔴 CONNECT 4 vs THE MACHINE
-
-<!--C4-STATE:{"g":[[0,0,0,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,0,0]],"over":false,"msg":"YOUR MOVE \u2014 you are \ud83d\udd34, machine is \ud83d\udfe1. Click a number to drop.","log":[]}-->
-<!--C4-BOARD-START-->
-| [1️⃣](https://github.com/irfaaan/irfaaan/issues/new?title=connect4%7Cdrop%7C0&body=Connect+4%3A+dropping+a+disc+in+column+1.+Just+hit+Submit.) | [2️⃣](https://github.com/irfaaan/irfaaan/issues/new?title=connect4%7Cdrop%7C1&body=Connect+4%3A+dropping+a+disc+in+column+2.+Just+hit+Submit.) | [3️⃣](https://github.com/irfaaan/irfaaan/issues/new?title=connect4%7Cdrop%7C2&body=Connect+4%3A+dropping+a+disc+in+column+3.+Just+hit+Submit.) | [4️⃣](https://github.com/irfaaan/irfaaan/issues/new?title=connect4%7Cdrop%7C3&body=Connect+4%3A+dropping+a+disc+in+column+4.+Just+hit+Submit.) | [5️⃣](https://github.com/irfaaan/irfaaan/issues/new?title=connect4%7Cdrop%7C4&body=Connect+4%3A+dropping+a+disc+in+column+5.+Just+hit+Submit.) | [6️⃣](https://github.com/irfaaan/irfaaan/issues/new?title=connect4%7Cdrop%7C5&body=Connect+4%3A+dropping+a+disc+in+column+6.+Just+hit+Submit.) | [7️⃣](https://github.com/irfaaan/irfaaan/issues/new?title=connect4%7Cdrop%7C6&body=Connect+4%3A+dropping+a+disc+in+column+7.+Just+hit+Submit.) |
-|---|---|---|---|---|---|---|
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-
-**STATUS:** YOUR MOVE — you are 🔴, machine is 🟡. Click a number to drop.
-<!--C4-BOARD-END-->
-
-### 🐍 ACTIVITY TRACE
+### 🐍 ACTIVITY TRACE // the snake feeds on green squares
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/irfaaan/irfaaan/output/github-snake-dark.svg" alt="contribution snake"/>
@@ -119,7 +108,7 @@ Git:                 ███████████████░░░   85
 
 ---
 
-### 📡 DAILY INTEL
+### 📡 DAILY INTEL // intercepted transmissions
 
 <div align="center">
 
@@ -131,11 +120,18 @@ Git:                 ███████████████░░░   85
 
 ---
 
-### 🥚 EASTER EGG
+### 🥚 DEAD DROPS // for those who know where to look
 
 ```bash
 root@darknet:~# echo "aGlyZSBtZSBmb3IgeW91ciBuZXh0IG1pc3Npb24=" | base64 -d
 # → decrypt it yourself. hackers don't hand out plaintext. 😎
+```
+
+```bash
+root@darknet:~# hexdump -C payload.bin
+00000000  68 69 72 65 20 6d 65 20 66 6f 72 20 79 6f 75 72  |hire me for your|
+00000010  20 6e 65 78 74 20 6d 69 73 73 69 6f 6e           | next mission|
+# → same message, deeper cover.
 ```
 
 ---
@@ -154,7 +150,8 @@ root@darknet:~# echo "aGlyZSBtZSBmb3IgeW91ciBuZXh0IG1pc3Npb24=" | base64 -d
 <div align="center">
 
 ```diff
-- [!] SESSION END — connection encrypted, logs wiped, coffee refilled.
+- [!] TRACE COMPLETE — connection encrypted, logs wiped, no evidence left behind.
+- [!] You were never here.
 + [✓] Thanks for stopping by. Star a repo if the code earned it.
 ```
 

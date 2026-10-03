@@ -25,7 +25,7 @@
 ```bash
 root@darknet:~# sudo ./whoami.sh --root
 
-[+] IDENTITY ............ Irfan (aka "Leo")
+[+] IDENTITY ............ Irfan
 [+] CLEARANCE ........... Full-Stack Developer
 [+] SPECIALIZATION ...... Laravel ecosystems · REST APIs · realtime systems
 [+] BASE OF OPERATIONS . Pakistan → shipping worldwide

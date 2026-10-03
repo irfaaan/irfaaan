@@ -81,23 +81,19 @@ Git:                 ███████████████░░░   85
 
 ---
 
+### 📈 PROFILE METRICS
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/irfaaan/irfaaan/main/metrics.svg" alt="profile metrics"/>
+</div>
+
+---
+
 ### 🕹️ TERMINAL ARCADE
 
 > *insert coin // no quarter required*
 >
 > **HOW TO PLAY:** 1️⃣ click any cell → 2️⃣ hit **Submit new issue** (everything is prefilled, nothing to type) → 3️⃣ wait ~30 seconds — the machine replies and the board updates right here, automatically.
-
-#### ❌ TIC-TAC-TOE vs THE MACHINE
-
-<!--TTT-STATE:{"b":["","","","","","","","",""],"over":false,"msg":"YOUR MOVE \u2014 you are \u274c, machine is \u2b55","log":[]}-->
-<!--TTT-BOARD-START-->
-|---|---|---|
-| [⬜](https://github.com/irfaaan/irfaaan/issues/new?title=tictactoe%7Cmove%7C0%7C0&body=Tic-Tac-Toe%3A+placing+X+at+row+1%2C+column+1.+Just+hit+Submit+%E2%80%94+the+machine+handles+the+rest.) | [⬜](https://github.com/irfaaan/irfaaan/issues/new?title=tictactoe%7Cmove%7C0%7C1&body=Tic-Tac-Toe%3A+placing+X+at+row+1%2C+column+2.+Just+hit+Submit+%E2%80%94+the+machine+handles+the+rest.) | [⬜](https://github.com/irfaaan/irfaaan/issues/new?title=tictactoe%7Cmove%7C0%7C2&body=Tic-Tac-Toe%3A+placing+X+at+row+1%2C+column+3.+Just+hit+Submit+%E2%80%94+the+machine+handles+the+rest.) |
-| [⬜](https://github.com/irfaaan/irfaaan/issues/new?title=tictactoe%7Cmove%7C1%7C0&body=Tic-Tac-Toe%3A+placing+X+at+row+2%2C+column+1.+Just+hit+Submit+%E2%80%94+the+machine+handles+the+rest.) | [⬜](https://github.com/irfaaan/irfaaan/issues/new?title=tictactoe%7Cmove%7C1%7C1&body=Tic-Tac-Toe%3A+placing+X+at+row+2%2C+column+2.+Just+hit+Submit+%E2%80%94+the+machine+handles+the+rest.) | [⬜](https://github.com/irfaaan/irfaaan/issues/new?title=tictactoe%7Cmove%7C1%7C2&body=Tic-Tac-Toe%3A+placing+X+at+row+2%2C+column+3.+Just+hit+Submit+%E2%80%94+the+machine+handles+the+rest.) |
-| [⬜](https://github.com/irfaaan/irfaaan/issues/new?title=tictactoe%7Cmove%7C2%7C0&body=Tic-Tac-Toe%3A+placing+X+at+row+3%2C+column+1.+Just+hit+Submit+%E2%80%94+the+machine+handles+the+rest.) | [⬜](https://github.com/irfaaan/irfaaan/issues/new?title=tictactoe%7Cmove%7C2%7C1&body=Tic-Tac-Toe%3A+placing+X+at+row+3%2C+column+2.+Just+hit+Submit+%E2%80%94+the+machine+handles+the+rest.) | [⬜](https://github.com/irfaaan/irfaaan/issues/new?title=tictactoe%7Cmove%7C2%7C2&body=Tic-Tac-Toe%3A+placing+X+at+row+3%2C+column+3.+Just+hit+Submit+%E2%80%94+the+machine+handles+the+rest.) |
-
-**STATUS:** YOUR MOVE — you are ❌, machine is ⭕
-<!--TTT-BOARD-END-->
 
 #### 🔴 CONNECT 4 vs THE MACHINE
 
@@ -118,8 +114,7 @@ Git:                 ███████████████░░░   85
 ### 🐍 ACTIVITY TRACE
 
 <div align="center">
-<!-- needs Platane/snk workflow → output branch -->
-<img src="https://raw.githubusercontent.com/irfaaan/irfaaan/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+<img src="https://raw.githubusercontent.com/irfaaan/irfaaan/output/github-snake-dark.svg" alt="contribution snake"/>
 </div>
 
 ---

@@ -59,8 +59,8 @@ https://irfaaan.github.io — lightweight, responsive, no heavy animations.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=irfaaan&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&hide_border=false"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfaaan&layout=compact&bg_color=0d1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&hide_border=false"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irfaaan&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irfaaan&theme=github_dark"/>
 
 <img src="https://streak-stats.demolab.com?user=irfaaan&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=FF6B00&currStreakNum=58A6FF&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&hide_border=true"/>
 
